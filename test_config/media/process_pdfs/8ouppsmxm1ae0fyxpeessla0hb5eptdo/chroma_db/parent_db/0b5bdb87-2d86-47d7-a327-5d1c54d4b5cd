@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "# Learning LangChain\n\nThe O\u2019Reilly logo is a registered trademark of O\u2019Reilly Media, Inc. Learning LangChain, the cover image, and related trade dress are trademarks of O\u2019Reilly Media, Inc.", "type": "Document"}}
