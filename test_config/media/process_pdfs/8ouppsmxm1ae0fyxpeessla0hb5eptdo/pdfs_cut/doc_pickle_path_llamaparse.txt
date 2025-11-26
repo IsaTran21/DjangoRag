@@ -1,1 +1,0 @@
-D:\2025\Projects\django_rag\config\media\process_pdfs\8ouppsmxm1ae0fyxpeessla0hb5eptdo\pdfs_cut\doc_pickle_path_llamaparse.txt

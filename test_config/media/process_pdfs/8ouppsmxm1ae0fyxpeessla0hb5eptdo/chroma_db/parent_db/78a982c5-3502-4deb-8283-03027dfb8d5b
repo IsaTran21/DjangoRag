@@ -1,1 +1,0 @@
-{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "# FROM SCRATCH\n\n# BUILD A Large Language Model\n\nSebastian Raschka\n\nM A N N I N G", "type": "Document"}}

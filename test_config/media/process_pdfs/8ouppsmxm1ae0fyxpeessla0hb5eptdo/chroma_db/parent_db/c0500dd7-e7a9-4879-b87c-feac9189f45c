@@ -1,1 +1,0 @@
-{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": ")\n# create the LLM prompt template", "type": "Document"}}
