@@ -9,6 +9,8 @@ A Retrieval-Augmented Generation (RAG) system built with **LangChain** and **Lan
 - Integrated **LlamaParse** and **Unstructured** for efficient PDF text extraction.
 - Advanced prompt engineering combined with document retrieval for strong contextual understanding.
 - **Plotly.js** visualization for tracking input and output token counts (including system tokens).
+### Set environment variables
+Need to set the environment variables, named "DJANGO_LLM" and "OPENAI"
 ### Implementation
 ```
 pip instal -r requirements.txt
